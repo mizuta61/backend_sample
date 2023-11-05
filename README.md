@@ -1,24 +1,9 @@
-# README
+DMM WEBCAMP Advent Calendar 2023の1日目の記事で作るサンプルリポジトリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+クローンして使う際は以下の手順でお使いください。
+``` terminal:terminal
+$ git clone git@github.com:mizuta61/backend_sample.git
+$ cd backend_sample
+$ yarn install
+$ rails s
+```
