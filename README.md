@@ -4,6 +4,8 @@
 ``` terminal:terminal
 $ git clone git@github.com:mizuta61/backend_sample.git
 $ cd backend_sample
+$ bundle install
+$ rails db:migrate
 $ yarn install
 $ rails s
 ```
